@@ -53,6 +53,7 @@ I have hands-on experience with Windows administration, networking, API automati
 * Group Policy & Local Policy Configuration
 * Domain Joins & Workstation Configuration
 * Event Viewer & Log Analysis
+* SCCM (MECM) & MDT Basics
 * Microsoft 365 / Office 365 Troubleshooting
 * Software Installation & Troubleshooting
 * Printer Troubleshooting
