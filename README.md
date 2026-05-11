@@ -46,11 +46,12 @@ I have hands-on experience with Windows administration, networking, API automati
 
 * Desktop Support
 * Active Directory Troubleshooting
-* Service Now and Jira Ticketing Systems Intergration and Troubleshooting
-* Group/Local Policy Updates
-* Domain Joins
-* Event Viewing and log analysis
-* Office 365 Troubleshooting
+* ServiceNow & Jira Ticketing Systems
+* Ticketing System Integration & Troubleshooting
+* Group Policy & Local Policy Configuration
+* Domain Joins & Workstation Configuration
+* Event Viewer & Log Analysis
+* Microsoft 365 / Office 365 Troubleshooting
 * Software Installation & Troubleshooting
 * Printer Troubleshooting
 * User Support
