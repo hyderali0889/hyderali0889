@@ -46,6 +46,8 @@ I have hands-on experience with Windows administration, networking, API automati
 
 * Desktop Support
 * Active Directory Troubleshooting
+* Azure Active Directory
+* Microsoft Graph for AD Automization
 * ServiceNow & Jira Ticketing Systems
 * Ticketing System Integration & Troubleshooting
 * Group Policy & Local Policy Configuration
