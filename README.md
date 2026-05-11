@@ -75,19 +75,23 @@ I have hands-on experience with Windows administration, networking, API automati
 
 ## 🔹 Automation Scripts
 
-Created PowerShell, Batch, and Python scripts to automate repetitive administrative and operational tasks.
+Created PowerShell, Batch, and Python scripts to automate repetitive administrative and operational tasks. [Project Link](https://github.com/hyderali0889/Automation_Scripts/tree/main/remote_ssh_transfers)
 
 ## 🔹 API Automation
 
-Developed Python-based automation workflows for uploading/downloading data using APIs and authenticated sessions.
+Developed Python-based automation workflows for uploading/downloading data using APIs and authenticated sessions. [Project Link 1](https://github.com/hyderali0889/Automation_Scripts/tree/main/web_scraping_and_api_autoamtion_via_python) , [Project Link 2](https://github.com/hyderali0889/Automation_Scripts/tree/main/attendance_machines_script_via_python), [Project Link 3](https://github.com/hyderali0889/Automation_Scripts/tree/main/attendance_server_in_python_and_js)
 
 ## 🔹 Remote Administration
 
-Managed and troubleshooted remote systems using SSH, RDP, and Remote PowerShell.
+Managed and troubleshooted remote systems using SSH, RDP, and Remote PowerShell.[Project Link 1](https://github.com/hyderali0889/Automation_Scripts/tree/main/server_health_check_via_powershell_remoting) , [Project Link 2](https://github.com/hyderali0889/Automation_Scripts/tree/main/setup_firewall_rules_remotly_using_ssh)
 
 ## 🔹 Networking & Support
 
-Performed networking troubleshooting and endpoint support in Windows-based environments.
+Performed networking troubleshooting and endpoint support in Windows-based environments. [Project Link](https://github.com/hyderali0889/Automation_Scripts/tree/main/setup_firewall_rules_remotly_using_ssh)
+
+## 🔹 Microsoft Teams Automation
+Powershell script and teams extension to automate the process of create teams, adding channels or deleting teams using scripts [Project Link](https://github.com/hyderali0889/Automation_Scripts/tree/main/microsoft_teams_via_powershell)
+
 
 ---
 
