@@ -45,6 +45,12 @@ I have hands-on experience with Windows administration, networking, API automati
 ## 🛠️ IT Support Skills
 
 * Desktop Support
+* Active Directory Troubleshooting
+* Service Now and Jira Ticketing Systems Intergration and Troubleshooting
+* Group/Local Policy Updates
+* Domain Joins
+* Event Viewing and log analysis
+* Office 365 Troubleshooting
 * Software Installation & Troubleshooting
 * Printer Troubleshooting
 * User Support
